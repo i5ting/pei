@@ -8,7 +8,7 @@ var current_path = process.cwd();
 
 var server_port = 3000;
 
-console.log(argv)
+// console.log(argv)
 
 var pre_file_extend = argv[1]
 var post_file_extend = argv[2]
